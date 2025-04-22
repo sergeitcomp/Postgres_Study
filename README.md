@@ -1,5 +1,4 @@
-![изображение](https://github.com/user-attachments/assets/98f051b6-29b6-471a-b0f6-a4e7227b14e7)# Postgres_Study
-Let's start studying postgres
+# Let's start studying postgres
 ### 1 Для начала скачайте инсталятор с сайта **postgres** 
 https://www.postgresql.org/download/
 ### 2 Запускаем активатор, там все по умолчанию, основные моменты прикладываю скринами
